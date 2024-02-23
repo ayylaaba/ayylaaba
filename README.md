@@ -1,4 +1,4 @@
-https://badge.mediaplus.ma/levi/ayylaaba
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ayylaaba" alt="ayylaaba's 42 stats" /></a>
 
 <!--
 **ayylaaba/ayylaaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
