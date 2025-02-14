@@ -1,7 +1,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/ayylaaba" alt="ayylaaba's 42 stats" /></a>
 
 # 💫 About Me:
-👋 Hello, I'm Ayyoub!<br><br>🚀 passionate about Coding. Constantly learning and exploring new technologies. <br><br>💻 Currently working on "Webserv project" to create a webserver similar to Nginx application.<br><br>🌱 I believe in the power of community and collaboration. Let's connect and build amazing things together!<br><br>📫 Reach me at ayyoublaabad2001@gmail.com.<br><br>Happy coding! 🚀<br>
+👋 Hello, I'm Ayyoub!<br><br>🚀 passionate about Coding. Constantly learning and exploring new technologies. <br><br>💻 Currently working on "Webserv project" to create a webserver similar to Nginx application.<br><br>🌱 I believe in the power of community and collaboration. Let's connect and build amazing things together!<br><br>📫 Reach me at ayoublaabad.it@gmail.com.<br><br>Happy coding! 🚀<br>
 
 
 # 💻 Tech Stack:
